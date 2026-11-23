@@ -1,2 +1,2 @@
-# EtioFast-DigitalandHardwareHub
-Repository for my company's digital works and hardware projects.
+# EtioFast-SoftwareandHardwareHub
+Repository for my company's Software and hardware projects.
